@@ -2,7 +2,8 @@ package IKnowThatWord;
 
 
 /**
- *La clase Vista es una clase que representa la interfaz gráfica de la aplicación "I Know That Word"
+ *
+ * clase Vista es una clase que representa la interfaz gráfica de la aplicación "I Know That Word"
  * @author Jhon Frank Vasquez: jhon.frank.vasquez@correounivalle.edu.co - 2226510
  * @author Juan Felipe: juan.palechor@correounivalle.edu.co - 2270963
  */

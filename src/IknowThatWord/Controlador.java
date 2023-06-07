@@ -5,9 +5,10 @@ import javax.swing.JOptionPane;
 import java.awt.Image;
 
 /**
- * Esta clase es usada para...
+ * La clase Controlador en el código proporcionado se utiliza como parte del patrón de diseño Modelo-Vista-Controlador
+ * (MVC) para separar la lógica de control de la aplicación de la representación visual y la manipulación de datos.
  * @author Jhon Frank Vasquez: jhon.frank.vasquez@correounivalle.edu.co - 2226510
- * @author Juan Felipe: correo - codigo
+ * @author Juan Felipe: juan.palechor@correounivalle.edu.co - 2270963
  */
 public class Controlador {
     private Modelo modelo;
